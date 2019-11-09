@@ -1,0 +1,26 @@
+1. See url pattern match in urls.py (djongo_project)
+2. include found blog.urls (empty remaining string sent in the  remaining url after blog, 
+as blog part processed)
+3. empty route handled in urls.py of blob folder
+4. views.home return a HttpResponse with a <h1> tag
+
+5. Template Inheritence
+
+6. Used 'python manage.py migrate' to create a super suser
+then ran 'python manage.py createsuperuser'
+
+7. used django ORM for databases
+8. Model class does the migration, here SQL for creating the table
+9. python manage.py migrate
+10. can do stuff in shell, create new posts by writing python there
+
+11. Add from .models import Post //to the admin.py 
+
+	admin.site.register(Post)
+this will give us ability to change content on the admin page
+
+12. Create new app for LOGIN (users app)
+
+13. Crispy forms with bootstrap4 used
+
+14. is_authenticated var used (django var) to see if used logged in
