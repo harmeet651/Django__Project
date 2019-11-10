@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e561a63d-eff7-4477-9ef8-a48c4d15cf9d" name="Default Changelist" comment="" />
+    <list default="true" id="e561a63d-eff7-4477-9ef8-a48c4d15cf9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/venv/django_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/django_project/db.sqlite3" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +14,7 @@
     <session id="1937351371">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
